@@ -228,6 +228,4 @@ My Sex Doctor offers tons of useful information about sex and sexuality. My Sex 
 
 # User Interface
 
-[https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVW9gJgDA6sOsnF0r2ZMCha%2FABC-of-Sex%3Fnode-id%3D345%253A77](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVW9gJgDA6sOsnF0r2ZMCha%2FABC-of-Sex%3Fnode-id%3D345%253A77)
-
-[Click here](https://www.figma.com/file/VW9gJgDA6sOsnF0r2ZMCha/ABC-of-Sex?node-id=345%3A77) to open this on figma
+[Click here](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVW9gJgDA6sOsnF0r2ZMCha%2FABC-of-Sex%3Fnode-id%3D345%253A77) to open this on figma
